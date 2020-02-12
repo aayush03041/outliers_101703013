@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="outliers_101703013", # Replace with your own username
+    name="outliers_101703013_2", # Replace with your own username
     version="0.0.2",
     author="Aayush Singla",
     author_email="singlaaayush0@gmail.com",
