@@ -12,7 +12,7 @@ setuptools.setup(
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/aayush03041/outlier-101703013",
-    download_url = 'https://github.com/aayush03041/outlier-101703013/archive/v_01.tar.gz', 
+    download_url = 'https://github.com/aayush03041/outliers_101703013/archive/v_01.tar.gz', 
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
